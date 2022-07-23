@@ -250,3 +250,7 @@ a {
   margin-right: auto;
   width: 50%;  
 }
+
+td:first-child {
+  font-weight: bold
+}
